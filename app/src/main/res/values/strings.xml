@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+
+    <string name="dialog_win">You won!</string>
+    <string name="dialog_lose">You lost Try again please?</string>
+    <string name="action_new_game">New game</string>
+
+
+</resources>
